@@ -1,2 +1,4 @@
 # Recommender-System-for-EPL-fantasy-football
-Recommender System for EPL fantasy football players
+
+Final project of my B.Sc in Industrial Engineering - Data Analytics.
+
